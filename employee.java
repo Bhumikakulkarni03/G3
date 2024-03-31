@@ -10,7 +10,7 @@ public class employee {
         // name=s.next();
         // salary=s.nextInt();
         id=001;
-        name=ramesh;
+        name="ramesh";
         salary=10000;
     }
     void display(){
